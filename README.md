@@ -12,7 +12,8 @@ The goal of this project is to build an immersive, functional sci-fi helmet shel
 <img width="1152" height="648" alt="helm pic" src="https://github.com/user-attachments/assets/8f0bf76d-ea4a-4f83-b8d4-323dfc8e4504" />
 
 ---
-<img width="1152" height="648" alt="helm pic" src="https://github.com/user-attachments/assets/de46ad8b-680f-43ab-80fb-96e8c2651961" />
+
+<img width="762" height="431" alt="Screenshot 2026-09-19 225617" src="https://github.com/user-attachments/assets/161cf741-61c0-45b9-93ee-620f889cbe22" />
 
 ## Bill of Materials (BOM)
 
