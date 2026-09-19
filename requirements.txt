@@ -1,0 +1,7 @@
+# LiroyVR — Abhängigkeiten
+# Installieren:  pip install -r requirements.txt
+opencv-python>=4.8
+numpy>=1.24
+
+# Nur für den echten Raspberry-Pi-Betrieb (Lüfter-PWM):
+# gpiozero  # auf Raspberry Pi OS meist vorinstalliert
