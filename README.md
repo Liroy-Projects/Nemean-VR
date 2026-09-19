@@ -9,8 +9,10 @@ The goal of this project is to build an immersive, functional sci-fi helmet shel
 ## CAD & Hardware Design Files
 * `mandalorian_helmet_base.stl`: Base outer helmet shell geometry used as the foundation for CAD remixing and internal bracket integration.
 * **Planned CAD Modifications:** Custom internal mounts for the 5" HUD display, Raspberry Pi 5 bracket, Noctua PWM airflow ducting, and the integrated rear Li-Ion battery compartment with rear USB-C charging port.
+<img width="1152" height="648" alt="helm pic" src="https://github.com/user-attachments/assets/8f0bf76d-ea4a-4f83-b8d4-323dfc8e4504" />
 
 ---
+<img width="1152" height="648" alt="helm pic" src="https://github.com/user-attachments/assets/de46ad8b-680f-43ab-80fb-96e8c2651961" />
 
 ## Bill of Materials (BOM)
 
