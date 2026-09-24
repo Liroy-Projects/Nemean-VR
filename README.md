@@ -6,10 +6,13 @@ Nemean VR is a custom tactical VR helmet project inspired by Mandalorian armor a
 The goal of this project is to build an immersive, functional sci-fi helmet shell with internal custom CAD mountings, optimized airflow, and integrated electronics for real-time vision processing.
 
 
-## CAD & Hardware Design Files
-* `mandalorian_helmet_base.stl`: Base outer helmet shell geometry used as the foundation for CAD remixing and internal bracket integration.
-* **Planned CAD Modifications:** Custom internal mounts for the 5" HUD display, Raspberry Pi 5 bracket, Noctua PWM airflow ducting, and the integrated rear Li-Ion battery compartment with rear USB-C charging port.
-<img width="1152" height="648" alt="helm pic" src="https://github.com/user-attachments/assets/8f0bf76d-ea4a-4f83-b8d4-323dfc8e4504" />
+## Project Images & CAD Preview
+
+![CAD Front Hardware Layout](mando_cad_front.png)
+*Figure 1: CAD preview in Bambu Studio highlighting component placement for HUD display, passthrough camera, and side management.*
+
+![CAD Interior Architecture](mando_cad_inside.png)
+*Figure 2: Interior shell mapping for Raspberry Pi 5 placement, wiring clearance, and internal helmet padding.*
 
 ---
 
