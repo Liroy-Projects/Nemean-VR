@@ -8,10 +8,10 @@ The goal of this project is to build an immersive, functional sci-fi helmet shel
 
 ## Project Images & CAD Preview
 
-![CAD Front Hardware Layout](mando_cad_front.png)
+![CAD Front Hardware Layout](mando1.png)
 *Figure 1: CAD preview in Bambu Studio highlighting component placement for HUD display, passthrough camera, and side management.*
 
-![CAD Interior Architecture](mando_cad_inside.png)
+![CAD Interior Architecture](mando2.png)
 *Figure 2: Interior shell mapping for Raspberry Pi 5 placement, wiring clearance, and internal helmet padding.*
 
 ---
